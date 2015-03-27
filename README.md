@@ -5,8 +5,8 @@
   
 ##FUNCTIONS:  	
 1. the cursor function:	
-scroll the line's position to get useful information.
+*scroll the line's position to get useful information.
 For example, getting the max value, current value, peak to peak value from the data.
-still working on some algorithms and frame saving function
+*still working on some algorithms and frame saving function
 
 	
