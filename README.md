@@ -1,9 +1,10 @@
 # simpleOscilloscope
 
-HOW TO USE:
-	1. choose com port
+##HOW TO USE:
+* Item 1	
+1. choose com port
   
-FUNCTIONS:  	
+##FUNCTIONS:  	
 	the cursoe function:	
 		scroll the line's position to get useful information.
 		For example, getting the max value, current value, peak to peak value from the data.
